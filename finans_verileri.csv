@@ -1,0 +1,11 @@
+id,tutar,tarih,aciklama,tip
+1,15000.0,2026-04-01,Maaş,gelir
+2,2000.0,2026-04-15,Freelance,gelir
+3,15000.0,2026-05-01,Maaş,gelir
+4,1500.0,2026-05-20,Kira Geliri,gelir
+1,4500.0,2026-04-05,Kira,gider
+2,1200.0,2026-04-10,Market,gider
+3,350.0,2026-04-18,Fatura,gider
+4,4500.0,2026-05-05,Kira,gider
+5,900.0,2026-05-12,Market,gider
+6,600.0,2026-05-25,Ulaşım,gider
