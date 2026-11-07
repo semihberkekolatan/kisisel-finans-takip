@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 GitHub Repo
-https://github.com/KULLANICI_ADI/24097002-SemihBerkeKolatan-PythonProje
+https://github.com/semihberkekolatan/kisisel-finans-takip
 
 ---
 
